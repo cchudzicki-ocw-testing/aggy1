@@ -1,0 +1,32 @@
+{
+  "term": "Spring",
+  "year": "2321",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "aggys-course"
+  },
+  "course_image": {
+    "content": "",
+    "website": "aggys-course"
+  },
+  "course_title": "Agnes's course",
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "123",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "aggys-course"
+  },
+  "learning_resource_types": [
+    "Course Introduction"
+  ],
+  "site_uid": "6041b804-ff0b-4c29-b21a-103fa1166cb8"
+}
